@@ -14,4 +14,5 @@ especialmente nas áreas de Blue Team e SOC.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/vinicius-lima-a35346371/)  [Site pessoal](https://vviniciuslimma.github.io/Portif-lio-pessoal/#sobre)
+[LinkedIn](https://www.linkedin.com/in/vinicius-lima-a35346371/)  
+[Site pessoal](https://vviniciuslimma.github.io/Portif-lio-pessoal/#sobre)
